@@ -1,6 +1,6 @@
 # Mule CIFS Connector
 
-This is a port of the community based [mulesoft 3.9 samba connector](https://github.com/mulesoft-consulting/samba-connector) to support the Mulesoft 4.x runtime.  It allows for authenticated access to CIFS/Samba file shares, which is tragically lacking in Mulesoft 4.x.  
+This is a port of the community based [mulesoft 3.9 samba connector](https://github.com/mulesoft-consulting/samba-connector) to support the Mulesoft 4.x runtime.  It allows for authenticated access to CIFS/Samba file shares, which is lacking in Mulesoft 4.x.  
 
 ## Installation
 
